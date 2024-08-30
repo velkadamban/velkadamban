@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @velkadamban (Daarwin Kanna)
 - 👀 I’m interested in Web & App Designer | Science & Innovation | Tamil History 
-- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Tamil Language based projects and Innovative Projects
+- 🌱 Python and Java Learner
 - 📫 How to reach me: velkadamban@gmail.com
 
 <!---
