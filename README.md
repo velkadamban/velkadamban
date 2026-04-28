@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @velkadamban (Daarwin Kanna)
-- 👀 I’m interested in Web & App Designer | Science & Innovation | Tamil History 
-- 💞️ I’m looking to collaborate on Tamil Language based projects and Innovative Projects
-- 🌱 Python and Java Learner
-- 📫 How to reach me: velkadamban@gmail.com
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Love+to+Code;Electronics+Lover;Opensource+supporter;Tamilian)](https://git.io/typing-svg)
 
 <!---
 velkadamban/velkadamban is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
